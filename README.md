@@ -21,7 +21,7 @@ A rock, paper, scissors game that allows the user to play against the computer.
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/python-projects.git
+git clone https://github.com/sharmapro24/cognorise-infotech.git
 Navigate to the project directory:
 cd python-projects
 Ensure you have Python 3 installed. 
